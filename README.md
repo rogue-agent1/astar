@@ -1,11 +1,7 @@
 # astar
-
-astar: A* pathfinding on grids and graphs.
-
-Single-file, zero-dependency Python CLI.
-
+#!/usr/bin/env python3
 ## Usage
-
 ```bash
-python3 astar.py test
+python3 astar.py --help
 ```
+Single-file Python, zero dependencies.
